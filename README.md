@@ -1,4 +1,4 @@
-# Material Tailwind - Portfolio Template
+# Tailwind + React Portfolio Page
 
 ## Quick Start
 
