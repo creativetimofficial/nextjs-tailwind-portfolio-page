@@ -1,4 +1,4 @@
-# [Next.js + Tailwind Portfolio Page](http://demos.creative-tim.com/nextjs-tailwind-portfolio-page?ref=readme-ntpp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page&text=Check%20Material%20Tailwind%202%20Template%20made%20by%20@CreativeTim%20#webdesign%20#template%20#materialdesign%20#react%20https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page)
+# [NextJS Tailwind Portfolio Page](http://demos.creative-tim.com/nextjs-tailwind-portfolio-page?ref=readme-ntpp) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page&text=Check%20Material%20Tailwind%202%20Template%20made%20by%20@CreativeTim%20#webdesign%20#template%20#materialdesign%20#react%20https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/nextjs-tailwind-portfolio-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-portfolio-page/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/nextjs-tailwind-portfolio-page.svg)](https://github.com/creativetimofficial/nextjs-tailwind-portfolio-page/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -56,9 +56,9 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Nextjs + Tailwind Portfolio Page. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the NextJS Tailwind Portfolio Page. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Nextjs + Tailwind Portfolio Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page?ref=readme-ntpp).
+1. Make sure that you are using the latest version of the NextJS Tailwind Portfolio Page. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/nextjs-tailwind-portfolio-page?ref=readme-ntpp).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
