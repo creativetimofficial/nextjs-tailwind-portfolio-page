@@ -113,7 +113,11 @@ export default function RootLayout({
           data-site="www.creative-tim.com"
           src="https://api.nepcha.com/js/nepcha-analytics.js"
         ></script>
-        <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+        <link
+          rel="shortcut icon"
+          href="/nextjs-tailwind-portfolio-page/favicon.png"
+          type="image/png"
+        />
       </head>
       <body className={roboto.className}>
         {/* Google Tag Manager (noscript) */}

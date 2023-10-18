@@ -49,7 +49,7 @@ export function Testimonial() {
               <div className="flex items-center gap-4">
                 <Avatar
                   variant="rounded"
-                  src="/image/avatar1.jpg"
+                  src="/nextjs-tailwind-portfolio-page/image/avatar1.jpg"
                   alt="spotify"
                   size="sm"
                   className={`cursor-pointer ${
@@ -60,7 +60,7 @@ export function Testimonial() {
                 <div className="w-[1px] h-[36px] bg-blue-gray-100 "></div>
                 <Avatar
                   variant="rounded"
-                  src="/image/avatar2.jpg"
+                  src="/nextjs-tailwind-portfolio-page/image/avatar2.jpg"
                   alt="spotify"
                   size="sm"
                   className={`cursor-pointer ${
@@ -71,7 +71,7 @@ export function Testimonial() {
                 <div className="w-[1px] h-[36px] bg-blue-gray-100" />
                 <Avatar
                   variant="rounded"
-                  src="/image/avatar3.jpg"
+                  src="/nextjs-tailwind-portfolio-page/image/avatar3.jpg"
                   alt="spotify"
                   size="sm"
                   className={`cursor-pointer ${
@@ -86,7 +86,7 @@ export function Testimonial() {
                 width={768}
                 height={768}
                 alt="testimonial image"
-                src={`/image/avatar${active}.jpg`}
+                src={`/nextjs-tailwind-portfolio-page/image/avatar${active}.jpg`}
                 className="h-full rounded-lg w-full object-cover"
               />
             </div>
