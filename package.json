@@ -10,8 +10,7 @@
     "build": "next build",
     "start": "next start",
     "export": "next export",
-    "lint": "next lint",
-    "deploy": "npm run build && touch out/.nojekyll && git add . && git commit -m \"ready to deploy\" && git push origin live-demo && git subtree push --prefix out origin gh-pages"
+    "lint": "next lint"
   },
   "dependencies": {
     "@heroicons/react": "2.0.18",
