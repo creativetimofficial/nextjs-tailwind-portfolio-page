@@ -4,6 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  assetsPrefix: "/nextjs-tailwind-portfolio-page/",
+  basePath: "/nextjs-tailwind-portfolio-page",
 };
 
 module.exports = nextConfig;
