@@ -11,7 +11,7 @@
     "start": "next start",
     "export": "next export",
     "lint": "next lint",
-    "deploy": "rm -rf node_modules/ && rm -rf package-lock.json && rm -rf .next/ && rm -rf out/ && npm install && npm run build && npm run export && touch out/.nojekyll && git add . && git commit -m \"ready to deploy\" && git push && git subtree push --prefix out origin gh-pages"
+    "deploy": "npm run build && touch out/.nojekyll && git add . && git commit -m \"ready to deploy\" && git push && git subtree push --prefix out origin gh-pages"
   },
   "dependencies": {
     "@heroicons/react": "2.0.18",
